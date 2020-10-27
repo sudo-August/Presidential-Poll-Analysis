@@ -1,0 +1,561 @@
+cycle,branch,model,modeldate,candidate_inc,candidate_chal,candidate_3rd,state,step_no,value_inc,value_chal,value_3rd,weight,step_description,timestamp,simulations
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wyoming,9,67.94462,29.06822,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wyoming,8,71.00243,26.01041,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wyoming,7,67.78769,29.22515,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wyoming,6,68.18205,28.83078,,.6630219,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wyoming,5,67.01176,30.00108,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wyoming,4,1.034622,1.034626,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wyoming,3,65.97713,28.96645,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wyoming,2,-.0399017,-.0217781,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wyoming,1,66.01704,28.98823,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wyoming,10,.9989,.0011,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wisconsin,9,46.35993,52.71088,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wisconsin,8,50.0134,49.05742,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wisconsin,7,46.15522,52.9156,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wisconsin,6,46.0213,53.04951,,.1714906,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wisconsin,5,46.18293,52.88788,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wisconsin,4,2.010323,2.010319,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wisconsin,3,44.17261,50.87756,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wisconsin,2,-.0238914,-.0367393,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wisconsin,1,44.1965,50.9143,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Wisconsin,10,.121,.879,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",West Virginia,9,63.15998,35.04014,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",West Virginia,8,66.48135,31.71877,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",West Virginia,7,62.96342,35.2367,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",West Virginia,6,66.01358,32.18654,,.3787047,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",West Virginia,5,61.10423,37.09589,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",West Virginia,4,1.396313,1.396313,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",West Virginia,3,59.70791,35.69958,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",West Virginia,2,.0030937,-.0416451,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",West Virginia,1,59.70482,35.74123,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",West Virginia,10,.988125,.011875,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Washington,9,37.15801,60.73889,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Washington,8,40.65055,57.24635,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Washington,7,36.96505,60.93185,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Washington,6,36.31137,61.58553,,.3110053,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Washington,5,37.26011,60.63679,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Washington,4,1.827541,1.827541,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Washington,3,35.43257,58.80925,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Washington,2,-.0634766,.0279503,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Washington,1,35.49605,58.7813,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Washington,10,.00915,.99085,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Virginia,9,43.51644,55.5176,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Virginia,8,47.17727,51.85678,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Virginia,7,43.34038,55.69366,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Virginia,6,41.93954,57.0945,,.2763221,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Virginia,5,43.87526,55.15879,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Virginia,4,2.636616,2.636616,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Virginia,3,41.23864,52.52217,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Virginia,2,-.0565338,.0267944,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Virginia,1,41.29518,52.49538,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Virginia,10,.013475,.986525,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Vermont,9,31.03668,66.43016,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Vermont,8,34.29197,63.17487,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Vermont,7,30.82771,66.63913,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Vermont,6,29.77022,67.69662,,.4124587,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Vermont,5,31.57008,65.89677,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Vermont,4,2.334154,2.33416,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Vermont,3,29.23592,63.56261,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Vermont,2,-.0129642,-.0303726,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Vermont,1,29.24889,63.59298,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Vermont,10,.007,.993,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Utah,9,55.89626,41.2818,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Utah,8,59.39176,37.7863,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Utah,7,55.70649,41.47158,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Utah,6,59.3332,37.84487,,.3246604,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Utah,5,53.963,43.21507,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Utah,4,3.019321,3.019321,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Utah,3,50.94368,40.19574,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Utah,2,.0141907,-.0469666,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Utah,1,50.92949,40.24271,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Utah,10,.9581,.0419,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Texas,9,50.80992,48.22055,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Texas,8,54.46182,44.56865,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Texas,7,50.61392,48.41654,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Texas,6,52.41242,46.61805,,.1976462,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Texas,5,50.17089,48.85957,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Texas,4,2.296555,2.296558,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Texas,3,47.87434,46.56301,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Texas,2,-.0093842,.0728188,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Texas,1,47.88372,46.49019,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Texas,10,.678125,.321875,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Tennessee,9,57.42757,41.53434,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Tennessee,8,60.98291,37.97901,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Tennessee,7,57.24188,41.72004,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Tennessee,6,58.69741,40.2645,,.4316924,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Tennessee,5,56.13624,42.82567,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Tennessee,4,1.840282,1.840286,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Tennessee,3,54.29596,40.98538,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Tennessee,2,-.1090546,.0340195,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Tennessee,1,54.40501,40.95136,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Tennessee,10,.966475,.033525,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Dakota,9,57.11265,41.44662,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Dakota,8,60.64645,37.91283,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Dakota,7,56.91849,41.64078,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Dakota,6,58.9991,39.56017,,.388727,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Dakota,5,55.59537,42.9639,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Dakota,4,2.82233,2.82233,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Dakota,3,52.77304,40.14157,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Dakota,2,.023037,.0791588,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Dakota,1,52.75,40.06241,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Dakota,10,.9452,.0548,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Carolina,9,53.69741,45.44261,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Carolina,8,57.34967,41.79035,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Carolina,7,53.52887,45.61115,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Carolina,6,53.90903,45.23099,,.2586704,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Carolina,5,53.39622,45.74379,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Carolina,4,2.360512,2.360512,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Carolina,3,51.03571,43.38328,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Carolina,2,-.0362473,.018425,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Carolina,1,51.07196,43.36486,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",South Carolina,10,.90795,.09205,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Rhode Island,9,35.44591,63.27547,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Rhode Island,8,38.87652,59.84486,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Rhode Island,7,35.21922,63.50215,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Rhode Island,6,36.47974,62.24163,,.6480401,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Rhode Island,5,32.89831,65.82307,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Rhode Island,4,1.249035,1.249039,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Rhode Island,3,31.64927,64.57403,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Rhode Island,2,.0248985,-.0526047,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Rhode Island,1,31.62437,64.62663,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Rhode Island,10,.001,.999,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Pennsylvania,9,47.14465,52.15916,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Pennsylvania,8,50.82611,48.47769,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Pennsylvania,7,46.95696,52.34684,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Pennsylvania,6,45.78988,53.51393,,.0997237,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Pennsylvania,5,47.08624,52.21757,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Pennsylvania,4,2.086056,2.08606,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Pennsylvania,3,45.00018,50.13151,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Pennsylvania,2,-.0630264,.0398331,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Pennsylvania,1,45.06321,50.09167,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Pennsylvania,10,.159125,.840875,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oregon,9,39.85424,58.05627,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oregon,8,43.40286,54.50765,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oregon,7,39.65656,58.25396,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oregon,6,40.782,57.12852,,.3571774,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oregon,5,39.03122,58.8793,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oregon,4,1.469368,1.469368,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oregon,3,37.56185,57.40993,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oregon,2,-.0075722,-.0250969,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oregon,1,37.56942,57.43503,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oregon,10,.0245,.9755,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oklahoma,9,61.8081,37.07059,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oklahoma,8,65.24585,33.63285,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oklahoma,7,61.63832,37.24038,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oklahoma,6,64.36856,34.51014,,.3117547,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oklahoma,5,60.4016,38.47709,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oklahoma,4,2.155857,2.155861,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oklahoma,3,58.24575,36.32123,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oklahoma,2,-.1092834,.038784,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oklahoma,1,58.35503,36.28245,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Oklahoma,10,.9935,.0065,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Ohio,9,50.07917,48.92052,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Ohio,8,53.73325,45.26644,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Ohio,7,49.88183,49.11786,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Ohio,6,48.53206,50.46763,,.2328656,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Ohio,5,50.29156,48.70814,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Ohio,4,2.319332,2.319332,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Ohio,3,47.97223,46.38881,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Ohio,2,-.0468597,.017704,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Ohio,1,48.01908,46.3711,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Ohio,10,.583725,.416275,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Dakota,9,60.09061,37.41129,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Dakota,8,63.47619,34.02571,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Dakota,7,59.88883,37.61306,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Dakota,6,62.58623,34.91566,,.4067656,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Dakota,5,58.0393,39.4626,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Dakota,4,1.571415,1.571411,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Dakota,3,56.46788,37.89119,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Dakota,2,.025444,-.0383339,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Dakota,1,56.44244,37.92952,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Dakota,10,.983875,.016125,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Carolina,9,48.63823,50.63234,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Carolina,8,52.32334,46.94723,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Carolina,7,48.45547,50.8151,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Carolina,6,48.65712,50.61345,,.1264735,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Carolina,5,48.42627,50.8443,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Carolina,4,1.744671,1.744671,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Carolina,3,46.6816,49.09962,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Carolina,2,-.0380478,.0134697,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Carolina,1,46.71965,49.08615,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",North Carolina,10,.3512,.6488,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New York,9,34.82276,64.14661,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New York,8,38.29627,60.67311,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New York,7,34.65111,64.31827,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New York,6,35.00608,63.9633,,.3376306,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New York,5,34.47018,64.4992,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New York,4,2.660715,2.660713,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New York,3,31.80946,61.83849,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New York,2,.0954609,-.3139343,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New York,1,31.714,62.15242,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New York,10,.0001,.9999,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Mexico,9,42.52117,55.61827,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Mexico,8,46.11079,52.02866,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Mexico,7,42.3158,55.82364,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Mexico,6,41.00203,57.13742,,.3147404,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Mexico,5,42.91922,55.22023,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Mexico,4,1.890209,1.890205,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Mexico,3,41.02901,53.33002,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Mexico,2,-.3045807,.1337013,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Mexico,1,41.33359,53.19632,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Mexico,10,.026825,.973175,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Jersey,9,39.88527,59.30687,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Jersey,8,43.47622,55.71591,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Jersey,7,39.69035,59.50179,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Jersey,6,39.38783,59.8043,,.2771948,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Jersey,5,39.80636,59.38577,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Jersey,4,3.163418,3.16341,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Jersey,3,36.64294,56.22236,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Jersey,2,-.051075,.0131035,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Jersey,1,36.69402,56.20926,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Jersey,10,.011725,.988275,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Hampshire,9,44.49653,54.54403,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Hampshire,8,48.09691,50.94365,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Hampshire,7,44.25117,54.78939,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Hampshire,6,44.82338,54.21718,,.3039319,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Hampshire,5,44.00133,55.03923,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Hampshire,4,1.533836,1.533833,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Hampshire,3,42.46749,53.5054,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Hampshire,2,-.0298119,.0140457,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Hampshire,1,42.49731,53.49135,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",New Hampshire,10,.1301,.8699,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nevada,9,45.46909,53.02417,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nevada,8,49.09491,49.39834,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nevada,7,45.26195,53.2313,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nevada,6,43.75483,54.73842,,.3520937,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nevada,5,46.08097,52.41228,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nevada,4,2.324265,2.324265,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nevada,3,43.7567,50.08802,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nevada,2,-.0405159,-.012558,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nevada,1,43.79722,50.10057,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nevada,10,.0958,.9042,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nebraska,9,57.87768,40.40564,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nebraska,8,61.38162,36.9017,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nebraska,7,57.70721,40.61041,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nebraska,6,58.59296,39.72466,,.5940357,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nebraska,5,52.47777,45.83986,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nebraska,4,1.841225,1.841225,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nebraska,3,50.63655,43.99863,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nebraska,2,-.0264015,-.0574875,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nebraska,1,50.66295,44.05612,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Nebraska,10,.9927,.0073,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-3,9,72.25038,25.58173,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-3,8,75.11024,22.72186,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-3,7,72.08947,25.74264,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-3,6,72.08947,25.74264,,1,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-3,5,,,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-3,4,,,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-3,3,,,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-3,2,,,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-3,1,,,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-3,10,.9997,.0003,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-2,9,47.09575,51.56992,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-2,8,50.73758,47.92809,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-2,7,46.89291,51.77275,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-2,6,48.20676,50.4589,,.3981946,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-2,5,46.02358,52.64208,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-2,4,2.252811,2.252808,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-2,3,43.77077,50.38927,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-2,2,-.0531044,.0003853,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-2,1,43.82388,50.38889,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-2,10,.228325,.771675,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-1,9,55.21112,43.10951,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-1,8,58.78408,39.53655,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-1,7,55.02759,43.29304,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-1,6,56.43278,41.88785,,.7278288,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-1,5,51.26989,47.05074,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-1,4,1.354404,1.354404,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-1,3,49.91549,45.69633,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-1,2,-.3705444,.1447144,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-1,1,50.28603,45.55162,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",NE-1,10,.9567,.0433,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Montana,9,53.46843,44.49394,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Montana,8,57.0389,40.92347,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Montana,7,53.2691,44.69326,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Montana,6,55.48915,42.47321,,.2786869,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Montana,5,52.41136,45.551,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Montana,4,1.428852,1.428852,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Montana,3,50.98251,44.12215,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Montana,2,.029892,.0042496,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Montana,1,50.95262,44.1179,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Montana,10,.886025,.113975,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Missouri,9,53.92366,44.74797,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Missouri,8,57.52731,41.14433,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Missouri,7,53.7314,44.94023,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Missouri,6,55.50498,43.16665,,.3808926,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Missouri,5,52.64025,46.03139,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Missouri,4,1.422241,1.422245,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Missouri,3,51.21801,44.60914,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Missouri,2,-.1013031,.0219193,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Missouri,1,51.31931,44.58722,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Missouri,10,.922325,.077675,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Mississippi,9,56.65191,42.58319,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Mississippi,8,60.27385,38.96124,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Mississippi,7,56.50211,42.73299,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Mississippi,6,55.05232,44.18277,,.4015667,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Mississippi,5,57.47496,41.76014,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Mississippi,4,2.629311,2.629311,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Mississippi,3,54.84565,39.13083,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Mississippi,2,-.3783417,.0265007,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Mississippi,1,55.22399,39.10432,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Mississippi,10,.907775,.092225,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Minnesota,9,45.41349,53.10026,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Minnesota,8,49.05486,49.45889,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Minnesota,7,45.22137,53.29237,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Minnesota,6,44.92285,53.59089,,.2784488,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Minnesota,5,45.33657,53.17717,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Minnesota,4,2.648941,2.648941,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Minnesota,3,42.68763,50.52823,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Minnesota,2,-.045784,-.0385895,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Minnesota,1,42.73342,50.56682,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Minnesota,10,.0862,.9138,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Michigan,9,45.43081,53.50356,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Michigan,8,49.08223,49.85214,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Michigan,7,45.23336,53.701,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Michigan,6,43.34703,55.58734,,.1233609,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Michigan,5,45.49881,53.43556,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Michigan,4,2.777798,2.777794,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Michigan,3,42.72101,50.65776,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Michigan,2,-.0030403,.0024109,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Michigan,1,42.72405,50.65535,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Michigan,10,.0646,.9354,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Massachusetts,9,31.40628,67.12189,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Massachusetts,8,34.70997,63.8182,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Massachusetts,7,31.20616,67.32201,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Massachusetts,6,32.763,65.76517,,.375276,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Massachusetts,5,30.27095,68.25721,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Massachusetts,4,1.529768,1.529762,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Massachusetts,3,28.74119,66.72745,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Massachusetts,2,.0378418,-.2500687,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Massachusetts,1,28.70334,66.97752,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Massachusetts,10,.000425,.999575,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maryland,9,33.86903,64.76678,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maryland,8,37.3201,61.31572,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maryland,7,33.71551,64.92031,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maryland,6,33.74633,64.88949,,.3056328,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maryland,5,33.70194,64.93388,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maryland,4,2.506594,2.506596,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maryland,3,31.19535,62.42728,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maryland,2,-.057682,.033886,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maryland,1,31.25303,62.39339,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maryland,10,.000475,.999525,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maine,9,43.32315,55.20321,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maine,8,46.91832,51.60803,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maine,7,43.16177,55.50283,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maine,6,44.17883,54.48578,,.347584,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maine,5,42.36196,56.30265,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maine,4,2.498096,2.4981,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maine,3,39.86386,53.80455,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maine,2,-.0253372,.0184402,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maine,1,39.8892,53.78611,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Maine,10,.1039,.8961,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-2,9,49.2073,49.20926,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-2,8,52.82946,45.5871,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-2,7,48.99779,49.41876,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-2,6,50.2398,48.17675,,.425205,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-2,5,48.22359,50.19296,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-2,4,2.871021,2.87244,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-2,3,45.35257,47.32052,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-2,2,-.028595,-.0008659,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-2,1,45.38117,47.32138,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-2,10,.500575,.499425,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-1,9,38.00714,60.61837,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-1,8,41.50287,57.12264,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-1,7,37.77636,60.84915,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-1,6,38.67156,59.95395,,.4272895,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-1,5,37.24764,61.37787,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-1,4,2.9902,3.005581,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-1,3,34.25744,58.37229,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-1,2,-.0349693,-.0048828,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-1,1,34.29241,58.37717,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",ME-1,10,.022875,.977125,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Louisiana,9,57.58817,41.57575,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Louisiana,8,61.15963,38.0043,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Louisiana,7,57.41224,41.75168,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Louisiana,6,56.99759,42.16633,,.3489391,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Louisiana,5,57.63448,41.52945,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Louisiana,4,3.232586,3.232586,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Louisiana,3,54.40189,38.29686,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Louisiana,2,-.2551079,.1437416,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Louisiana,1,54.657,38.15312,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Louisiana,10,.95025,.04975,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kentucky,9,59.09064,39.75354,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kentucky,8,62.59594,36.24825,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kentucky,7,58.90429,39.9399,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kentucky,6,60.31969,38.52449,,.3084069,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kentucky,5,58.27311,40.57108,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kentucky,4,1.625126,1.625122,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kentucky,3,56.64798,38.94595,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kentucky,2,-.0692825,.0284462,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kentucky,1,56.71727,38.91751,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kentucky,10,.98735,.01265,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kansas,9,54.58816,43.63913,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kansas,8,58.15439,40.07291,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kansas,7,54.39063,43.83667,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kansas,6,55.93917,42.28812,,.278094,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kansas,5,53.79409,44.4332,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kansas,4,2.522465,2.522469,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kansas,3,51.27163,41.91073,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kansas,2,-.0355911,.0182457,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kansas,1,51.30722,41.89248,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Kansas,10,.961225,.038775,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Iowa,9,49.49152,49.22525,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Iowa,8,53.11598,45.60079,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Iowa,7,49.27318,49.44359,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Iowa,6,50.90686,47.80991,,.2148381,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Iowa,5,48.82617,49.8906,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Iowa,4,2.481384,2.481384,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Iowa,3,46.34478,47.40922,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Iowa,2,.0211067,.013382,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Iowa,1,46.32368,47.39584,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Iowa,10,.515875,.484125,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Indiana,9,54.60318,44.05691,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Indiana,8,58.19724,40.46285,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Indiana,7,54.41308,44.24701,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Indiana,6,54.44439,44.21571,,.3346252,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Indiana,5,54.39734,44.26275,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Indiana,4,2.975117,2.975117,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Indiana,3,51.42222,41.28763,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Indiana,2,-.1621971,.0690804,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Indiana,1,51.58442,41.21855,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Indiana,10,.954925,.045075,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Illinois,9,40.27037,58.29594,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Illinois,8,43.86219,54.70413,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Illinois,7,40.0877,58.47862,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Illinois,6,37.95203,60.61429,,.3581894,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Illinois,5,41.2796,57.28671,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Illinois,4,2.049965,2.049965,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Illinois,3,39.22964,55.23675,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Illinois,2,-.0847473,.0486908,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Illinois,1,39.31438,55.18806,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Illinois,10,.001075,.998925,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Idaho,9,60.23432,37.02887,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Idaho,8,63.6031,33.66009,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Idaho,7,60.03416,37.22904,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Idaho,6,62.27852,34.98468,,.4102383,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Idaho,5,58.47298,38.79022,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Idaho,4,1.224667,1.224667,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Idaho,3,57.24831,37.56555,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Idaho,2,-.2662125,-.045929,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Idaho,1,57.51452,37.61148,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Idaho,10,.9943,.0057,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Hawaii,9,31.9276,66.54291,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Hawaii,8,35.25273,63.21778,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Hawaii,7,31.72831,66.7422,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Hawaii,6,28.87539,69.59512,,.3898332,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Hawaii,5,33.55103,64.91948,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Hawaii,4,2.418318,2.418324,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Hawaii,3,31.13271,62.50116,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Hawaii,2,-.0758133,.013401,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Hawaii,1,31.20852,62.48775,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Hawaii,10,.0083,.9917,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Georgia,9,49.85532,49.36104,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Georgia,8,53.554,45.66236,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Georgia,7,49.69256,49.5238,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Georgia,6,51.07649,48.13987,,.1715292,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Georgia,5,49.40602,49.81034,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Georgia,4,2.311882,2.311886,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Georgia,3,47.09414,47.49845,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Georgia,2,-.055172,-.0021896,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Georgia,1,47.14931,47.50064,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Georgia,10,.534125,.465875,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Florida,9,48.52066,50.73568,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Florida,8,52.18684,47.0695,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Florida,7,48.31931,50.93703,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Florida,6,47.37854,51.8778,,.1149641,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Florida,5,48.44151,50.81483,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Florida,4,1.704266,1.704266,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Florida,3,46.73724,49.11056,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Florida,2,-.1315727,.0110168,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Florida,1,46.86882,49.09954,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Florida,10,.339025,.660975,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",District of Columbia,9,6.85181,89.96227,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",District of Columbia,8,8.181835,88.63224,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",District of Columbia,7,6.812341,90.00173,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",District of Columbia,6,5.547421,91.26665,,.6412237,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",District of Columbia,5,9.073071,87.741,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",District of Columbia,4,.2168474,.2168503,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",District of Columbia,3,8.856223,87.52415,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",District of Columbia,2,-.0731068,-.0630646,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",District of Columbia,1,8.92933,87.58722,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",District of Columbia,10,0,1,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Delaware,9,36.94861,61.85897,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Delaware,8,40.48927,58.31831,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Delaware,7,36.78353,62.02406,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Delaware,6,35.46437,63.34321,,.3571649,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Delaware,5,37.51646,61.29112,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Delaware,4,3.066551,3.066551,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Delaware,3,34.44991,58.22457,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Delaware,2,.0250053,-.1569786,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Delaware,1,34.4249,58.38155,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Delaware,10,.000125,.999875,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Connecticut,9,38.15046,61.02435,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Connecticut,8,41.69598,57.47884,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Connecticut,7,37.94963,61.22518,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Connecticut,6,39.40583,59.76898,,.4289448,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Connecticut,5,36.85582,62.319,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Connecticut,4,3.082344,3.08234,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Connecticut,3,33.77347,59.23666,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Connecticut,2,-.0177765,-.0564194,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Connecticut,1,33.79125,59.29308,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Connecticut,10,.00135,.99865,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Colorado,9,43.12215,55.0722,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Colorado,8,46.72004,51.47432,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Colorado,7,42.91629,55.27806,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Colorado,6,44.39142,53.80294,,.2544667,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Colorado,5,42.4128,55.78156,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Colorado,4,2.34697,2.346966,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Colorado,3,40.06583,53.43459,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Colorado,2,-.0377235,-.0669441,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Colorado,1,40.10356,53.50153,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Colorado,10,.037975,.962025,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",California,9,34.29314,63.80106,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",California,8,37.72761,60.36659,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",California,7,34.12219,63.97201,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",California,6,33.02916,65.06504,,.2769143,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",California,5,34.54078,63.55342,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",California,4,2.783215,2.783207,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",California,3,31.75757,60.77021,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",California,2,-.0467243,.0253143,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",California,1,31.80429,60.7449,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",California,10,.00185,.99815,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arkansas,9,59.6399,38.81151,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arkansas,8,63.10554,35.34587,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arkansas,7,59.45127,39.00014,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arkansas,6,60.31927,38.13214,,.398252,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arkansas,5,58.8768,39.57461,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arkansas,4,2.291992,2.291992,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arkansas,3,56.58481,37.28262,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arkansas,2,-.1490707,.0931129,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arkansas,1,56.73388,37.1895,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arkansas,10,.985575,.014425,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arizona,9,48.16539,50.56374,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arizona,8,51.80748,46.92164,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arizona,7,47.96035,50.76878,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arizona,6,48.18149,50.54763,,.1841077,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arizona,5,47.91044,50.81868,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arizona,4,2.142624,2.14262,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arizona,3,45.76782,48.67606,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arizona,2,-.0424004,.0171661,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arizona,1,45.81022,48.65889,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Arizona,10,.3435,.6565,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alaska,9,52.73347,44.94521,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alaska,8,56.29823,41.38045,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alaska,7,52.53078,45.1479,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alaska,6,53.66806,44.01062,,.3474551,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alaska,5,51.92522,45.75346,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alaska,4,2.405682,2.405682,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alaska,3,49.51954,43.34777,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alaska,2,-.0418587,.0091782,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alaska,1,49.5614,43.3386,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alaska,10,.8169,.1831,,,Chance of winning,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alabama,9,59.37,39.83711,,,Projected vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alabama,8,62.91991,36.28719,,.0486985,Blend with economic fundamentals,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alabama,7,59.21745,39.98966,,,Snapshot,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alabama,6,60.00485,39.20225,,.3674,Blend with regression,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alabama,5,58.76014,40.44697,,,Reallocated vote share,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alabama,4,2.05595,2.05595,,,Reallocate undecideds and third-party votes,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alabama,3,56.70419,38.39102,,,Adjusted polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alabama,2,-.0379257,.0143547,,,Adjust for bounces & recent events,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alabama,1,56.74211,38.37667,,,Polling average,13:42:04 26 Oct 2020,40000
+2020,President,polls-plus,10/26/2020,Trump,Biden,"",Alabama,10,.980475,.019525,,,Chance of winning,13:42:04 26 Oct 2020,40000

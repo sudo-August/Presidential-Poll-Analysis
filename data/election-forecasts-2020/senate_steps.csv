@@ -1,0 +1,141 @@
+cycle,branch,forecastdate,district,candidateA,candidateB,displaystep,description,margin,lite_weight,classic_weight,deluxe_weight,simulations,timestamp
+2020,Senate,10/26/20,WY-S2,Merav Ben-David,Cynthia Lummis,4,Expert ratings adjusted for national environment,-41.54299,0,0,.7177314,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,WY-S2,Merav Ben-David,Cynthia Lummis,3,Fundamentals (non-polling factors),-40.19719,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,WY-S2,Merav Ben-David,Cynthia Lummis,2,CANTOR (analysis of comparable disticts),-36.95727,.8358126,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,WY-S2,Merav Ben-David,Cynthia Lummis,1,Polls adjusted for house effects & other factors,,0,0,0,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,WV-S2,Paula Jean Swearengin,Shelley Moore Capito,4,Expert ratings adjusted for national environment,-26.3461,0,0,1.121314,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,WV-S2,Paula Jean Swearengin,Shelley Moore Capito,3,Fundamentals (non-polling factors),-26.15719,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,WV-S2,Paula Jean Swearengin,Shelley Moore Capito,2,CANTOR (analysis of comparable disticts),-21.16664,.8358126,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,WV-S2,Paula Jean Swearengin,Shelley Moore Capito,1,Polls adjusted for house effects & other factors,-19.88432,.8091737,.8091737,.8091737,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,VA-S2,Mark Warner,Daniel Gade,4,Expert ratings adjusted for national environment,20.66733,0,0,3.851096,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,VA-S2,Mark Warner,Daniel Gade,3,Fundamentals (non-polling factors),21.78545,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,VA-S2,Mark Warner,Daniel Gade,2,CANTOR (analysis of comparable disticts),17.52719,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,VA-S2,Mark Warner,Daniel Gade,1,Polls adjusted for house effects & other factors,15.50999,6.282322,6.282322,6.282322,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,TX-S2,M.J. Hegar,John Cornyn,4,Expert ratings adjusted for national environment,-10.18516,0,0,7.350092,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,TX-S2,M.J. Hegar,John Cornyn,3,Fundamentals (non-polling factors),-8.684519,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,TX-S2,M.J. Hegar,John Cornyn,2,CANTOR (analysis of comparable disticts),-9.200337,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,TX-S2,M.J. Hegar,John Cornyn,1,Polls adjusted for house effects & other factors,-7.707909,13.29773,13.29773,13.29773,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,TN-S2,Marquita Bradshaw,Bill Hagerty,4,Expert ratings adjusted for national environment,-25.11453,0,0,1.537748,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,TN-S2,Marquita Bradshaw,Bill Hagerty,3,Fundamentals (non-polling factors),-24.41458,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,TN-S2,Marquita Bradshaw,Bill Hagerty,2,CANTOR (analysis of comparable disticts),-11.19578,.3558857,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,TN-S2,Marquita Bradshaw,Bill Hagerty,1,Polls adjusted for house effects & other factors,-20.38632,1.644114,1.644114,1.644114,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,SD-S2,Dan Ahlers,Mike Rounds,4,Expert ratings adjusted for national environment,-28.76433,0,0,.7177314,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,SD-S2,Dan Ahlers,Mike Rounds,3,Fundamentals (non-polling factors),-26.18184,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,SD-S2,Dan Ahlers,Mike Rounds,2,CANTOR (analysis of comparable disticts),-29.96197,.8358126,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,SD-S2,Dan Ahlers,Mike Rounds,1,Polls adjusted for house effects & other factors,,0,0,0,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,SC-S2,Jaime Harrison,Lindsey Graham,4,Expert ratings adjusted for national environment,-5.378965,0,0,4.531895,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,SC-S2,Jaime Harrison,Lindsey Graham,3,Fundamentals (non-polling factors),-7.932947,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,SC-S2,Jaime Harrison,Lindsey Graham,2,CANTOR (analysis of comparable disticts),-8.931186,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,SC-S2,Jaime Harrison,Lindsey Graham,1,Polls adjusted for house effects & other factors,-4.68679,7.647308,7.647308,7.647308,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,RI-S2,Jack Reed,Allen Waters,4,Expert ratings adjusted for national environment,46.3849,0,0,.7177314,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,RI-S2,Jack Reed,Allen Waters,3,Fundamentals (non-polling factors),48.39783,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,RI-S2,Jack Reed,Allen Waters,2,CANTOR (analysis of comparable disticts),45.2939,.8358126,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,RI-S2,Jack Reed,Allen Waters,1,Polls adjusted for house effects & other factors,,0,0,0,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,OR-S2,Jeff Merkley,Jo Rae Perkins,4,Expert ratings adjusted for national environment,23.64182,0,0,1.305978,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,OR-S2,Jeff Merkley,Jo Rae Perkins,3,Fundamentals (non-polling factors),30.0465,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,OR-S2,Jeff Merkley,Jo Rae Perkins,2,CANTOR (analysis of comparable disticts),16.94161,.8205799,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,OR-S2,Jeff Merkley,Jo Rae Perkins,1,Polls adjusted for house effects & other factors,19.32687,1.17942,1.17942,1.17942,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,OK-S2,Abby Broyles,Jim Inhofe,4,Expert ratings adjusted for national environment,-24.84052,0,0,2.191319,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,OK-S2,Abby Broyles,Jim Inhofe,3,Fundamentals (non-polling factors),-27.63908,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,OK-S2,Abby Broyles,Jim Inhofe,2,CANTOR (analysis of comparable disticts),-21.42616,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,OK-S2,Abby Broyles,Jim Inhofe,1,Polls adjusted for house effects & other factors,-18.19227,2.954509,2.954509,2.954509,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NM-S2,Ben Ray Luján,Mark Ronchetti,4,Expert ratings adjusted for national environment,18.51281,0,0,1.958842,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NM-S2,Ben Ray Luján,Mark Ronchetti,3,Fundamentals (non-polling factors),15.69339,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NM-S2,Ben Ray Luján,Mark Ronchetti,2,CANTOR (analysis of comparable disticts),13.76533,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NM-S2,Ben Ray Luján,Mark Ronchetti,1,Polls adjusted for house effects & other factors,8.241486,2.488397,2.488397,2.488397,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NJ-S2,Cory Booker,Rikin Mehta,4,Expert ratings adjusted for national environment,24.56873,0,0,1.958214,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NJ-S2,Cory Booker,Rikin Mehta,3,Fundamentals (non-polling factors),28.60736,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NJ-S2,Cory Booker,Rikin Mehta,2,CANTOR (analysis of comparable disticts),18.64339,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NJ-S2,Cory Booker,Rikin Mehta,1,Polls adjusted for house effects & other factors,24.4861,2.487139,2.487139,2.487139,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NH-S2,Jeanne Shaheen,Corky Messner,4,Expert ratings adjusted for national environment,17.21358,0,0,3.865653,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NH-S2,Jeanne Shaheen,Corky Messner,3,Fundamentals (non-polling factors),26.16354,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NH-S2,Jeanne Shaheen,Corky Messner,2,CANTOR (analysis of comparable disticts),11.21815,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NH-S2,Jeanne Shaheen,Corky Messner,1,Polls adjusted for house effects & other factors,15.28701,6.311509,6.311509,6.311509,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NE-S2,Chris Janicek,Ben Sasse,4,Expert ratings adjusted for national environment,-33.08841,0,0,1.540962,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NE-S2,Chris Janicek,Ben Sasse,3,Fundamentals (non-polling factors),-35.24944,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NE-S2,Chris Janicek,Ben Sasse,2,CANTOR (analysis of comparable disticts),-16.16426,.3494414,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NE-S2,Chris Janicek,Ben Sasse,1,Polls adjusted for house effects & other factors,-29.58632,1.650559,1.650559,1.650559,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NC-S2,Cal Cunningham,Thom Tillis,4,Expert ratings adjusted for national environment,-.2216229,0,0,12.25211,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NC-S2,Cal Cunningham,Thom Tillis,3,Fundamentals (non-polling factors),-1.173324,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NC-S2,Cal Cunningham,Thom Tillis,2,CANTOR (analysis of comparable disticts),-.6641917,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,NC-S2,Cal Cunningham,Thom Tillis,1,Polls adjusted for house effects & other factors,4.037125,23.12616,23.12616,23.12616,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MT-S2,Steve Bullock,Steve Daines,4,Expert ratings adjusted for national environment,-3.91977,0,0,4.490979,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MT-S2,Steve Bullock,Steve Daines,3,Fundamentals (non-polling factors),-2.987456,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MT-S2,Steve Bullock,Steve Daines,2,CANTOR (analysis of comparable disticts),-11.28136,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MT-S2,Steve Bullock,Steve Daines,1,Polls adjusted for house effects & other factors,-2.900455,7.565272,7.565272,7.565272,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MS-S2,Mike Espy,Cindy Hyde-Smith,4,Expert ratings adjusted for national environment,-20.96804,0,0,1.562566,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MS-S2,Mike Espy,Cindy Hyde-Smith,3,Fundamentals (non-polling factors),-1.836614,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MS-S2,Mike Espy,Cindy Hyde-Smith,2,CANTOR (analysis of comparable disticts),-7.368403,.3061272,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MS-S2,Mike Espy,Cindy Hyde-Smith,1,Polls adjusted for house effects & other factors,-5.239304,1.693873,1.693873,1.693873,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MN-S2,Tina Smith,Jason Lewis,4,Expert ratings adjusted for national environment,18.69806,0,0,4.029315,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MN-S2,Tina Smith,Jason Lewis,3,Fundamentals (non-polling factors),16.96243,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MN-S2,Tina Smith,Jason Lewis,2,CANTOR (analysis of comparable disticts),12.12113,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MN-S2,Tina Smith,Jason Lewis,1,Polls adjusted for house effects & other factors,6.595768,6.639647,6.639647,6.639647,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MI-S2,Gary Peters,John James,4,Expert ratings adjusted for national environment,5.036036,0,0,13.12404,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MI-S2,Gary Peters,John James,3,Fundamentals (non-polling factors),20.57331,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MI-S2,Gary Peters,John James,2,CANTOR (analysis of comparable disticts),16.75976,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MI-S2,Gary Peters,John James,1,Polls adjusted for house effects & other factors,6.473541,24.87435,24.87435,24.87435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,ME-S2,Sara Gideon,Susan Collins,4,Expert ratings adjusted for national environment,2.017328,0,0,4.364059,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,ME-S2,Sara Gideon,Susan Collins,3,Fundamentals (non-polling factors),-12.06802,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,ME-S2,Sara Gideon,Susan Collins,2,CANTOR (analysis of comparable disticts),3.499391,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,ME-S2,Sara Gideon,Susan Collins,1,Polls adjusted for house effects & other factors,5.604309,7.310802,7.310802,7.310802,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MA-S2,Ed Markey,Kevin O'Connor,4,Expert ratings adjusted for national environment,36.4735,0,0,.7177314,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MA-S2,Ed Markey,Kevin O'Connor,3,Fundamentals (non-polling factors),37.34973,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MA-S2,Ed Markey,Kevin O'Connor,2,CANTOR (analysis of comparable disticts),44.64384,.8358126,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,MA-S2,Ed Markey,Kevin O'Connor,1,Polls adjusted for house effects & other factors,,0,0,0,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,LA-S2,All Democrats,All Republicans,4,Expert ratings adjusted for national environment,-26.0538,0,0,.7177314,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,LA-S2,All Democrats,All Republicans,3,Fundamentals (non-polling factors),-9.481764,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,LA-S2,All Democrats,All Republicans,2,CANTOR (analysis of comparable disticts),-18.02927,.8358126,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,LA-S2,All Democrats,All Republicans,1,Polls adjusted for house effects & other factors,,0,0,0,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,KY-S2,Amy McGrath,Mitch McConnell,4,Expert ratings adjusted for national environment,-17.75412,0,0,2.822512,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,KY-S2,Amy McGrath,Mitch McConnell,3,Fundamentals (non-polling factors),-10.26877,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,KY-S2,Amy McGrath,Mitch McConnell,2,CANTOR (analysis of comparable disticts),-14.58518,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,KY-S2,Amy McGrath,Mitch McConnell,1,Polls adjusted for house effects & other factors,-11.78255,4.220035,4.220035,4.220035,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,KS-S2,Barbara Bollier,Roger Marshall,4,Expert ratings adjusted for national environment,-7.617917,0,0,3.932563,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,KS-S2,Barbara Bollier,Roger Marshall,3,Fundamentals (non-polling factors),-6.867604,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,KS-S2,Barbara Bollier,Roger Marshall,2,CANTOR (analysis of comparable disticts),-7.784393,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,KS-S2,Barbara Bollier,Roger Marshall,1,Polls adjusted for house effects & other factors,-3.167355,6.445661,6.445661,6.445661,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,IL-S2,Richard J. Durbin,Mark C. Curran Jr.,4,Expert ratings adjusted for national environment,26.249,0,0,.7177314,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,IL-S2,Richard J. Durbin,Mark C. Curran Jr.,3,Fundamentals (non-polling factors),26.81752,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,IL-S2,Richard J. Durbin,Mark C. Curran Jr.,2,CANTOR (analysis of comparable disticts),33.61128,.8358126,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,IL-S2,Richard J. Durbin,Mark C. Curran Jr.,1,Polls adjusted for house effects & other factors,,0,0,0,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,ID-S2,Paulette Jordan,Jim Risch,4,Expert ratings adjusted for national environment,-26.0119,0,0,1.161281,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,ID-S2,Paulette Jordan,Jim Risch,3,Fundamentals (non-polling factors),-21.8655,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,ID-S2,Paulette Jordan,Jim Risch,2,CANTOR (analysis of comparable disticts),-21.43206,.8358126,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,ID-S2,Paulette Jordan,Jim Risch,1,Polls adjusted for house effects & other factors,-25.10453,.8893057,.8893057,.8893057,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,IA-S2,Theresa Greenfield,Joni Ernst,4,Expert ratings adjusted for national environment,.5581329,0,0,7.116808,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,IA-S2,Theresa Greenfield,Joni Ernst,3,Fundamentals (non-polling factors),-.4136778,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,IA-S2,Theresa Greenfield,Joni Ernst,2,CANTOR (analysis of comparable disticts),-6.38878,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,IA-S2,Theresa Greenfield,Joni Ernst,1,Polls adjusted for house effects & other factors,1.540226,12.83,12.83,12.83,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,GA-S3,All Democrats,All Republicans,4,Expert ratings adjusted for national environment,-6.158721,0,0,7.485766,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,GA-S3,All Democrats,All Republicans,3,Fundamentals (non-polling factors),2.673009,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,GA-S3,All Democrats,All Republicans,2,CANTOR (analysis of comparable disticts),-.5679001,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,GA-S3,All Democrats,All Republicans,1,Polls adjusted for house effects & other factors,-4.076847,13.56975,13.56975,13.56975,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,GA-S2,Jon Ossoff,David Perdue,4,Expert ratings adjusted for national environment,-5.378965,0,0,8.858317,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,GA-S2,Jon Ossoff,David Perdue,3,Fundamentals (non-polling factors),-.7369653,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,GA-S2,Jon Ossoff,David Perdue,2,CANTOR (analysis of comparable disticts),-7.07902,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,GA-S2,Jon Ossoff,David Perdue,1,Polls adjusted for house effects & other factors,-1.03315,16.32168,16.32168,16.32168,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,DE-S2,Christopher A. Coons,Lauren Witzke,4,Expert ratings adjusted for national environment,29.58533,0,0,1.375906,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,DE-S2,Christopher A. Coons,Lauren Witzke,3,Fundamentals (non-polling factors),33.34048,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,DE-S2,Christopher A. Coons,Lauren Witzke,2,CANTOR (analysis of comparable disticts),20.3961,.6803744,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,DE-S2,Christopher A. Coons,Lauren Witzke,1,Polls adjusted for house effects & other factors,30.21901,1.319626,1.319626,1.319626,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,CO-S2,John W. Hickenlooper,Cory Gardner,4,Expert ratings adjusted for national environment,6.823522,0,0,5.002655,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,CO-S2,John W. Hickenlooper,Cory Gardner,3,Fundamentals (non-polling factors),2.434984,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,CO-S2,John W. Hickenlooper,Cory Gardner,2,CANTOR (analysis of comparable disticts),1.445333,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,CO-S2,John W. Hickenlooper,Cory Gardner,1,Polls adjusted for house effects & other factors,8.862816,8.591171,8.591171,8.591171,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AZ-S3,Mark Kelly,Martha McSally,4,Expert ratings adjusted for national environment,4.256279,0,0,10.674,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AZ-S3,Mark Kelly,Martha McSally,3,Fundamentals (non-polling factors),.5369902,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AZ-S3,Mark Kelly,Martha McSally,2,CANTOR (analysis of comparable disticts),2.475077,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AZ-S3,Mark Kelly,Martha McSally,1,Polls adjusted for house effects & other factors,6.519691,19.96209,19.96209,19.96209,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AR-S2,Ricky Dale Harrington Jr.,Tom Cotton,4,Expert ratings adjusted for national environment,-61.00312,0,0,1.787365,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AR-S2,Ricky Dale Harrington Jr.,Tom Cotton,3,Fundamentals (non-polling factors),-63.9381,0,1.439034,1.439034,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AR-S2,Ricky Dale Harrington Jr.,Tom Cotton,2,CANTOR (analysis of comparable disticts),,0,0,0,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AR-S2,Ricky Dale Harrington Jr.,Tom Cotton,1,Polls adjusted for house effects & other factors,-26.60596,2.14459,2.14459,2.14459,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AL-S2,Doug Jones,Tommy Tuberville,4,Expert ratings adjusted for national environment,-10.18516,0,0,2.722255,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AL-S2,Doug Jones,Tommy Tuberville,3,Fundamentals (non-polling factors),10.41317,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AL-S2,Doug Jones,Tommy Tuberville,2,CANTOR (analysis of comparable disticts),-6.154583,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AL-S2,Doug Jones,Tommy Tuberville,1,Polls adjusted for house effects & other factors,-10.96336,4.019023,4.019023,4.019023,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AK-S2,Al Gross,Dan Sullivan,4,Expert ratings adjusted for national environment,-10.18516,0,0,3.435226,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AK-S2,Al Gross,Dan Sullivan,3,Fundamentals (non-polling factors),-3.517209,0,1.284435,1.284435,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AK-S2,Al Gross,Dan Sullivan,2,CANTOR (analysis of comparable disticts),-8.614029,0,.1545999,.1545999,40000,13:29:47 26 Oct 2020
+2020,Senate,10/26/20,AK-S2,Al Gross,Dan Sullivan,1,Polls adjusted for house effects & other factors,-5.159206,5.448513,5.448513,5.448513,40000,13:29:47 26 Oct 2020
